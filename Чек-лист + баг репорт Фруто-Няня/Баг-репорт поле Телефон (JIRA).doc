@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SCRUM-5] Поле &quot;Телефон&quot;: Некорректная работа поля, возможность вставить символ в конец формы</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://valentineborodich13.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SCRUM-5]&nbsp;<a href="https://valentineborodich13.atlassian.net/browse/SCRUM-5">Поле &quot;Телефон&quot;: Некорректная работа поля, возможность вставить символ в конец формы</a>
+            <span class="subText">
+               Создано: 16/мая/25                   &nbsp;Обновлено: 16/мая/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Статус:</b></td>
+        <td width="80%">К выполнению</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Проект:</b></td>
+        <td width="80%"><a href="https://valentineborodich13.atlassian.net/secure/BrowseProject.jspa?id=10000">Тестовый проект</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Компоненты:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии Affects:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии исправления:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Тип:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Баг
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Приоритет:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Автор:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:90ec1134-c55f-4170-a90e-9329b65c799d"
+                id="word_reporter_712020:90ec1134-c55f-4170-a90e-9329b65c799d"
+                href="https://valentineborodich13.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A90ec1134-c55f-4170-a90e-9329b65c799d">
+                    valentine
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Исполнитель:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:90ec1134-c55f-4170-a90e-9329b65c799d"
+                id="word_assignee_712020:90ec1134-c55f-4170-a90e-9329b65c799d"
+                href="https://valentineborodich13.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A90ec1134-c55f-4170-a90e-9329b65c799d">
+                    valentine
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Решение:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Нет решения
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Голоса:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Метки:</b>
+        </td>
+        <td id="labels-10068-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Нет
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Оценка остатка:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Затраченное время:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Исходная оценка:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10068-value" class="value" bgcolor="#ffffff" width="80%">      0|hzzzzx:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10068-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Описание</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Environment:</b></p>
+
+<p>Windows 10 Pro, Version 22H2; Yandex Browser, Version 25.4.0.1973 (64-bit)</p>
+
+<p><b>Description:</b> Если кликнуть на форму то цифры вводятся по порядку, но если выделить любой нижний слэш, то можно вставить значение в любое место телефона.</p>
+
+<p><b>Steps for reproduce:</b></p>
+
+<ol>
+	<li>Перейти по ссылке <a href="https://frutonyanya.ru/register/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://frutonyanya.ru/register/</a></li>
+	<li>Заполнить поле “Ваше имя”: Valentine</li>
+	<li>Заполнить поле “E-mail”: tafipe1612@yopmail.com</li>
+	<li>Выделить в поле “Телефон” нижнее последнее подчеркивание: +7 (__<em>) __<del></em><em></del></em><font color="#ff5630"><b>_</b></font></li>
+	<li>Вставить в выделенное поле любую цифру, например 3: +7 (__<em>) __<del></em><em></del></em><font color="#ff5630"><b>3</b></font></li>
+	<li>Заполнить поле “Пароль” и “Подтвердить пароль”: ZX8-qvS-mHp-kNW</li>
+	<li>Кликнуть на чек-бокс “<em>Я ознакомился(-ась) с</em> <a href="https://frutonyanya.ru/termsofuse.pdf" class="external-link" rel="nofollow noreferrer"><em>Пользовательским соглашением</em></a> <em>и даю согласие на обработку моих персональных данных.</em>”</li>
+	<li>Кликнуть на кнопку “Зарегистрироваться”</li>
+</ol>
+
+
+<p><span class="image-wrap" style=""><img src="https://frutonyanya.ru/local/templates/frutonyanya/img/favicon/16.png" height="16" width="16" style="border: 0px solid black" /></span></p>
+
+<p><b>Expected result:</b> Появляется ошибка и предупреждение о невалидном значении поля “Телефон”</p>
+
+<p><b>Actual result:</b> Появилось окно Ошибка: "Что-то пошло не так…", но нет подсказки в чем проблема.</p>
+
+<p><b>Severity:</b> low</p>
+
+<p><b>Priority:</b> low</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Полученный Fri May 16 08:28:09 UTC 2025 valentine используя JIRA 1001.0.0-SNAPSHOT#100283-rev:34570c4cff474e33c02f9e53b8540cd41f69ecdd.
+
+</body>
+</html>

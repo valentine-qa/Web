@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SCRUM-4] Поле &quot;E-mail&quot;: Успешная регистрация с почтой содержащей спецсимволы</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://valentineborodich13.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SCRUM-4]&nbsp;<a href="https://valentineborodich13.atlassian.net/browse/SCRUM-4">Поле &quot;E-mail&quot;: Успешная регистрация с почтой содержащей спецсимволы</a>
+            <span class="subText">
+               Создано: 16/мая/25                   &nbsp;Обновлено: 16/мая/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Статус:</b></td>
+        <td width="80%">К выполнению</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Проект:</b></td>
+        <td width="80%"><a href="https://valentineborodich13.atlassian.net/secure/BrowseProject.jspa?id=10000">Тестовый проект</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Компоненты:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии Affects:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии исправления:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Тип:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Баг
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Приоритет:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Автор:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:90ec1134-c55f-4170-a90e-9329b65c799d"
+                id="word_reporter_712020:90ec1134-c55f-4170-a90e-9329b65c799d"
+                href="https://valentineborodich13.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A90ec1134-c55f-4170-a90e-9329b65c799d">
+                    valentine
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Исполнитель:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:90ec1134-c55f-4170-a90e-9329b65c799d"
+                id="word_assignee_712020:90ec1134-c55f-4170-a90e-9329b65c799d"
+                href="https://valentineborodich13.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A90ec1134-c55f-4170-a90e-9329b65c799d">
+                    valentine
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Решение:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Нет решения
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Голоса:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Метки:</b>
+        </td>
+        <td id="labels-10067-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Нет
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Оценка остатка:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Затраченное время:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Исходная оценка:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10067-value" class="value" bgcolor="#ffffff" width="80%">      0|hzzzzv:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10067-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Описание</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Environment:</b></p>
+
+<p>Windows 10 Pro, Version 22H2; Yandex Browser, Version 25.4.0.1973 (64-bit)</p>
+
+<p><b>Description:</b> Была произведена проверка регистрации с E-mail содержащем специальные символы. Ожидалась ошибка регистрации, с предупреждением о невалидном значении поля E-mail. Ошибки не произошло, предупреждения тоже.</p>
+
+<p><b>Steps to reproduce:</b></p>
+
+<ol>
+	<li>Перейти по ссылке <a href="https://frutonyanya.ru/register/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://frutonyanya.ru/register/</a></li>
+	<li>Заполнить поле “Ваше имя”: Valentine</li>
+	<li>Заполнить поле “E-mail”: tafipe!!!22#~uppile-1612@yopmail.com</li>
+	<li>Заполнить поле “Телефон”: +7 (988) 931-25-60</li>
+	<li>Заполнить поле “Пароль” и “Подтвердить пароль”: ZX8-qvS-mHp-kNW</li>
+	<li>Кликнуть на чек-бокс “<em>Я ознакомился(-ась) с</em> <a href="https://frutonyanya.ru/termsofuse.pdf" class="external-link" rel="nofollow noreferrer"><em>Пользовательским соглашением</em></a> <em>и даю согласие на обработку моих персональных данных.</em>”</li>
+	<li>Кликнуть на кнопку “Зарегистрироваться”</li>
+</ol>
+
+
+<p><b>Expected result:</b> Появляется ошибка и предупреждение о невалидном значении поля “E-mail”</p>
+
+<p><b>Actual result:</b> Ошибки не произошло: На указанный e-mail выслано письмо со ссылкой для подтверждения регистрации</p>
+
+<p><b>Severity:</b> major</p>
+
+<p><b>Priority:</b> normal</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Полученный Fri May 16 08:26:36 UTC 2025 valentine используя JIRA 1001.0.0-SNAPSHOT#100283-rev:34570c4cff474e33c02f9e53b8540cd41f69ecdd.
+
+</body>
+</html>
